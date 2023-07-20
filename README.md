@@ -1,2 +1,2 @@
 # Weather-Application
-React application
+React application.
